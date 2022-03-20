@@ -1,0 +1,64 @@
+.section-heading {
+	margin-top:0;
+	line-height:1.4;
+	font-size:34px;
+	 color:#111;
+}
+
+.text-primary {
+	color:#f05f40;
+}
+
+.service-box {
+	margin:50px auto 0;
+	max-width:400px;
+}
+@media(min-width:992px) {
+	.service-box {
+		margin:20px auto 0;
+	}
+}
+.service-box p {
+	margin-bottom:0;
+}
+
+.iconbox {
+	display:inline-block;
+	width:80px;
+	height:80px;
+	color:#fff;
+	border-radius:50%;
+	line-height:90px;
+}
+
+.text-faded {
+	color:rgba(255,255,255,.7) !Important;
+}
+
+.color-1 {
+	color: #f97400;
+}
+
+.color-2{
+    color: #08a6f3;
+}
+
+.color-3{
+    color: #f0dc4e;
+}
+
+.color-4{
+    color: #7010f5;
+}
+
+.color-5{
+    color: #f05133;
+}
+
+.color-6{
+    color: #2496ee;
+}
+
+.my-margin{
+    margin-top: 4em;
+}
